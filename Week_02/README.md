@@ -8,4 +8,4 @@ Click here to view the notebook with nbviewer : https://nbviewer.jupyter.org/git
 - Images for the different visualizations
 
 # Instructions
-To use the hyperlinks of the notebook, you have to download it !
+To use the hyperlinks of the notebook, you have to look with nbviewer or you can download the notebook !
