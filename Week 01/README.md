@@ -1,6 +1,6 @@
 # Tensorflow.js Transfer Learning Image Classifier Example
 
-The TensorFlow.js Tranfer Learning Image Classifier tutorial is the first assignment. You can look at the repository at [Tensorflow Tutorial](https://github.com/cydessole/TensorFlow.js-Transfer-Learning-Image-Classifier/edit/master/)
+The TensorFlow.js Tranfer Learning Image Classifier tutorial is the first assignment. You can look at the repository at [Tensorflow Tutorial](https://github.com/cydessole/TensorFlow.js-Transfer-Learning-Image-Classifier)
 
 ## Project
 
