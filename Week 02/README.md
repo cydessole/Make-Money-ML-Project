@@ -3,6 +3,7 @@ This is a simple project where we study the performance of three different regre
 
 # Contents
 - Jupyter Notebook
+- CSV file used
 - Images for the different visualizations
 
 # Instructions
