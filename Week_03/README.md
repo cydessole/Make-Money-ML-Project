@@ -1,4 +1,4 @@
-# Predicting the stock prices
+# Fraud detection 
 This is a quick project where we look into fraud detection with <a href=https://www.kaggle.com/mlg-ulb/creditcardfraud> this dataset</a>.
 
 # Contents
