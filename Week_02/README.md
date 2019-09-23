@@ -1,7 +1,7 @@
 # Predicting the stock prices
 This is a simple project where we study the performance of three different regression algorithms for the Tesla stock prices.
 Click here to view the notebook with nbviewer : https://nbviewer.jupyter.org/github/cydessole/Make-Money-ML-Project/blob/master/Week_02/Stock_market_prediction.ipynb#toc1
-[stock-price.jpg](#stock_price)
+![Stock Price](stock-price.jpg)
 # Contents
 - Jupyter Notebook
 - CSV file used
