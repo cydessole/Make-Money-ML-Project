@@ -1,6 +1,7 @@
 # GAN with MNIST FASHION
 This is a quick project where we look into the power of generative adversarial network
 ![GAN Schema](GAN.jpg)
+
 source : https://medium.com/archieai/a-dozen-times-artificial-intelligence-startled-the-world-eae5005153db
 
 # Contents
