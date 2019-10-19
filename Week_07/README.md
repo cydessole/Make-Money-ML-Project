@@ -5,7 +5,6 @@ This is a quick project where we look deep learning multi-class classification w
 
 # Contents
 - Jupyter Notebook
-- Keras model h5
 - Images of results
 
 # Instructions
