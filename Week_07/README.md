@@ -1,5 +1,5 @@
 # Weed Detection in Soybean Crops
-This is a quick project where we look deep learning multi-class classification with weed Detection.
+This is a quick project where we look into deep learning multi-class classification with weed Detection.
 ![soybean Image](soybean.jpg)
 
 
