@@ -1,6 +1,6 @@
 # Reinforcement learning
 This is a quick project where we look into the gym library.
-![Cartpole Image](Cartpole.jpg)
+![Cartpole Image](Cartpole.png)
 
 
 # Contents
