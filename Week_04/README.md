@@ -2,7 +2,7 @@
 This is a quick project where we look into x-ray images with <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2> this dataset</a>.
 ![X-ray](xrayImage.jpg)
 
-# Contents
+# Content
 - Jupyter Notebook
 - Images for the different visualizations
 

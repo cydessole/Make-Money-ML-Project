@@ -3,7 +3,7 @@ This is a quick project where we look into deep learning multi-class classificat
 ![soybean Image](soybean.jpg)
 
 
-# Contents
+# Content
 - Jupyter Notebook
 - Images of results
 

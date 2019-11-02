@@ -21,12 +21,12 @@ After enough image samples for each category, your model will predict accurately
 
 3. After enough training, you will see the right `Prediction` and high `Probability`. If not, you should add more training samples.
 
-## Classic Example : Rock–paper–scissors 
+## Classic Example : Rock–paper–scissors
 
 I've seen this example multiple times to test this application.
 I did this one as well to test my Classifier.
 
-4 classes : 
+4 classes :
   - A: Rock
   - B: Paper
   - C: Scissors
